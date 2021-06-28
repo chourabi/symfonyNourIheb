@@ -1,0 +1,16 @@
+* new project
+
+symfony new project_name 
+
+
+* insatal rooting 
+composer require annotations
+
+
+* check routing list
+ php bin/console debug:router
+
+
+
+*add templating
+ composer require twig
